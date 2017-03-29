@@ -15,6 +15,7 @@
 		A449578B1E8B53CB0075B12F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A44957891E8B53CB0075B12F /* LaunchScreen.storyboard */; };
 		A44957951E8B546C0075B12F /* JJCityPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = A44957941E8B546C0075B12F /* JJCityPickView.m */; };
 		A44957971E8B57600075B12F /* city.json in Resources */ = {isa = PBXBuildFile; fileRef = A44957961E8B57600075B12F /* city.json */; };
+		A449579A1E8B58890075B12F /* Snip20170329_4.png in Resources */ = {isa = PBXBuildFile; fileRef = A44957991E8B58890075B12F /* Snip20170329_4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		A44957931E8B546C0075B12F /* JJCityPickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJCityPickView.h; sourceTree = "<group>"; };
 		A44957941E8B546C0075B12F /* JJCityPickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJCityPickView.m; sourceTree = "<group>"; };
 		A44957961E8B57600075B12F /* city.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = city.json; sourceTree = "<group>"; };
+		A44957991E8B58890075B12F /* Snip20170329_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Snip20170329_4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 			children = (
 				A44957921E8B53E90075B12F /* cityPick */,
 				A449577A1E8B53CB0075B12F /* chinese-City-Pick */,
+				A44957981E8B58890075B12F /* ScreenShots */,
 				A44957791E8B53CB0075B12F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -93,6 +96,14 @@
 				A44957941E8B546C0075B12F /* JJCityPickView.m */,
 			);
 			path = cityPick;
+			sourceTree = "<group>";
+		};
+		A44957981E8B58890075B12F /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				A44957991E8B58890075B12F /* Snip20170329_4.png */,
+			);
+			path = ScreenShots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -158,6 +169,7 @@
 				A44957881E8B53CB0075B12F /* Assets.xcassets in Resources */,
 				A44957971E8B57600075B12F /* city.json in Resources */,
 				A44957861E8B53CB0075B12F /* Main.storyboard in Resources */,
+				A449579A1E8B58890075B12F /* Snip20170329_4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -330,6 +342,7 @@
 				A44957911E8B53CB0075B12F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
